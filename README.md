@@ -10,16 +10,16 @@
 
 # Instructions
 ###   1. Clone the Repository:
-
-##### git clone https://github.com/yourusername/your-repository.git
-
+  ```bash
+     git clone https://github.com/yourusername/your-repository.git
+```
 ###   2. Install Required Libraries:
 ##### Make sure you have the necessary libraries installed. 
 
 ##### You can install them using pip:
-
+```bash
  %pip install pandas matplotlib seaborn
-
+```
 # Update File Path:
 #### In the code examples, replace 'API_SP.POP.TOTL_DS2_en_csv_v2_354862/API_SP.POP.TOTL_DS2_en_csv_v2_354862.csv file ' with the actual path to your dataset file.
 
