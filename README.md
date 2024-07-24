@@ -26,9 +26,6 @@
 # Run the Code:
 #### Execute the Python scripts to generate the visualizations. You can use Jupyter Notebook or any Python environment of your choice.
 
-# License
-#### This project is licensed under the MIT License. See the LICENSE file for details.
-
 # Contributing
 #### Feel free to open issues or submit pull requests if you have improvements or suggestions.
 
